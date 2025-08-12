@@ -1,0 +1,9 @@
+.about__container {
+    margin-top: 100px; /* Adjust value as needed to match nav-bar height */
+    color: #333;
+    padding: 40px;
+    text-align: left;
+    background: transparent;
+    margin-left: 5%;
+    margin-right: 5%;
+}
