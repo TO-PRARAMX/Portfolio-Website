@@ -5,6 +5,7 @@ import Home from './components/Home/Home';
 import About from './components/About/About';
 import Projects from './components/Projects/Projects';
 import Blog from './components/Blog/Blog';
+import { PostPage } from './components/Blog/Post';
 import './App.css';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Route path="about" element={<About />} />
         <Route path="projects" element={<Projects />} />
         <Route path="blog" element={<Blog />} />
+        <Route path="blog/:slug" element={<PostPage />} />
       </Route>
     </Routes>
   );

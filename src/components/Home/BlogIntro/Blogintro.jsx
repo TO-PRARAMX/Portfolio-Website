@@ -3,12 +3,12 @@ import React, { useEffect, useState } from 'react';
 const BlogIntro = () => {
     const [posts, setPosts] = useState([]);
 
-    useEffect(() => {
-        fetch('https://your-backend-api.com/blogs?limit=3')
-            .then(res => res.json())
-            .then(data => setPosts(data))
-            .catch(err => console.error(err));
-    }, []);
+    // useEffect(() => {
+    //     fetch('https://your-backend-api.com/blogs?limit=3')
+    //         .then(res => res.json())
+    //         .then(data => setPosts(data))
+    //         .catch(err => console.error(err));
+    // }, []);
 
     return (
         <div>

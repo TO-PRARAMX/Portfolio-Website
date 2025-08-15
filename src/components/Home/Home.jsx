@@ -22,10 +22,6 @@ const Home = () => {
             <div className="home__blog">
                 <BlogIntro/>
             </div>
-
-            <div className="home__project">
-                <h2>My Projects</h2>
-            </div>
             
         </div>
     );
