@@ -1,8 +1,0 @@
-@font-face {
-  font-family: Roboto;
-  src: url('./assets/font/Roboto/static/Roboto-Black.ttf') format('ttf');
-}
-
-textarea {
-  font-family: 'Roboto';
-}
