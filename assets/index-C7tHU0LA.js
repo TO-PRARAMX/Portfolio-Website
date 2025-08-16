@@ -59,31 +59,29 @@ title: Surviving NUS without "Home"
 slug: homeless-arc
 tags:
     - campus life
-date: 13-08-2025
+date: July 2025
 img: '../Images/DawsonRoad.jpeg'
 ---
 # How I survive in NUS without "Home"
 
-Brrrr
-Brrrr`,__vite_glob_0_1=`---
+To be updated`,__vite_glob_0_1=`---
 title: NUS Review
 slug: review-nus
 tags:
     - campus life
-date: 13-08-2025
+date: June 2025
 img: '../Images/S9.jpg'
 ---
 
 # How I survive in NUS without "Home"
 
-Brrrr
-Brrrr`,__vite_glob_0_2=`---
+To be updated`,__vite_glob_0_2=`---
 title: PLANCKS 2025
 slug: plancks-2025
 tags:
     - physics
     - competition
-date: 13-08-2025
+date: May 2025
 img: '../Images/SagradaFamilia.jpeg'
 ---
 
